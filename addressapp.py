@@ -145,5 +145,3 @@ findSection()
 
 print("Output: ")
 print(newaddress.toJSON())
-
-# No 11, Chendering, 21080 Kuala Terengganu, Terengganu.
