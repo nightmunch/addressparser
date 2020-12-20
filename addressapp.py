@@ -28,7 +28,7 @@ class Address:
 user_input = input("Input: ")
 # Remove comma and stop
 user_input = user_input.replace(",", "")
-user_input = user_input.replace(".", "")
+user_input = user_input.replace(".", " ")
 
 newaddress = Address()
 
